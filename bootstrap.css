@@ -1,0 +1,25 @@
+body{
+    /* background-color: aqua;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image:url(cat.jpg); */
+    background-color:black;
+}
+/* .card{
+    margin-top: 400px;
+}
+h1{
+    color:black;
+} */
+ h1{
+    color: white;
+ }
+.abc{
+    display: flex;
+    gap: 20px;
+}
+iframe{
+    border-radius: 12%;
+}
